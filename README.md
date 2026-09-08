@@ -123,6 +123,8 @@ Tools and frameworks for establishing guardrails, approval workflows, policy enf
 
 - **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** – Policy-based control framework. Can be used to define and enforce policies for AI agent actions in production.
 
+- **[Failproof](https://github.com/FailproofAI/failproofai)** – Learn from agent traces to find failure modes and fix them with policies.
+
 - **[Falco](https://github.com/falcosecurity/falco)** – Runtime security monitoring for cloud-native environments. Useful for detecting anomalous agent behavior and policy violations.
 
 - **[NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)** – Framework for adding programmable guardrails to LLM applications. Applicable to constraining agent behavior in ops workflows.
